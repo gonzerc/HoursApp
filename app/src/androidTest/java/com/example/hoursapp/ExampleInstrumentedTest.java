@@ -1,4 +1,4 @@
-package com.example.tanyaapp;
+package com.example.hoursapp;
 
 import android.content.Context;
 
