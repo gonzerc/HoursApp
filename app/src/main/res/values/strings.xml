@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HoursApp</string>
+    <string name="mainTitle">Get Those Hours</string>
+    <string name="category">Session Category</string>
+    <string name="timeHint">00:00</string>
+    <string name="period">AM</string>
+    <string name="add">Add Session</string>
+    <string name="from">Start</string>
+    <string name="to">End</string>
+    <string name="list">Total Hours:</string>
+</resources>
